@@ -1,0 +1,90 @@
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.deps.json
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.json
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.dev.json
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.dll
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\bin\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.AssemblyReference.cache
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfoInputs.cache
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfo.cs
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.CoreCompileInputs.cache
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.dll
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\Süske\source\repos\SkandinavLotto\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.deps.json
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet + js suli\Csharphazi\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.deps.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet+js\skandilotto-master\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.deps.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\bin\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet+js\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.deps.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\bin\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\User\OneDrive\Desktop\aspnet+js\HaziApr10\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.genruntimeconfig.cache
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.deps.json
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.json
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.runtimeconfig.dev.json
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.dll
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\bin\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\bin\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.AssemblyReference.cache
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfoInputs.cache
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.AssemblyInfo.cs
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.csproj.CoreCompileInputs.cache
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.dll
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\ref\SkandinavAdat.dll
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.pdb
+C:\Users\Forszt\Downloads\HaziApr10-master\HaziApr10-master\Feladat1\SkandinavAdat\obj\Debug\net5.0\SkandinavAdat.genruntimeconfig.cache
